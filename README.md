@@ -5,16 +5,16 @@ No complex coding is required for this exercise.
 Your goal here is to master all of the tools and best practices you learned about in previous steps. 
 You will be using them in all Microverse projects and most likely in your future job as well, so it is important to know them!
 
-##Build With
+## Build With
 - HTML/CSS
 - Linter: github actions
-##General Requirements
+## General Requirements
 Once you finish your project, double-check to make sure your repo is ready:
 
 - Make sure that there are no linter errors.
 - Make sure that you used correct (GitHub flow).
 - Make sure that you documented your work.
-##Requirements
+## Requirements
 - Remember to document your work in a professional way.
 - Create a new GitHub repo.
 - Create a new branch according to the GitHub flow rules.
