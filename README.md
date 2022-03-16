@@ -1,4 +1,5 @@
-# Hello-Microverse
+![](https://img.shields.io/badge/Microverse-blueviolet)
+# Hello- Project 
 This is a hello microverse project for my course in Microverse.
 In this project, you will set up a "Hello world" repository. 
 No complex coding is required for this exercise. 
@@ -27,5 +28,17 @@ Once you finish your project, double-check to make sure your repo is ready:
 - A test.md file with the text "This file should be ignored by git".
 - Make sure that the last file is actually ignored by git and is not present in your GitHub repository.
 - Open a pull request.
+## Author
+👤 **Author**
+- github account: [@dielupovissa](https://github.com/dielupovissa/)
+- twitter: [@aivar_antonio](https://twitter.com/aivar_antonio)
+- linkedin: [@aivar_antónio](https://www.linkedin.com/in/aivar-ant%C3%B3nio-000821139/)
+## 🤝 Contributing
+All contributions are welcome!
+## Show your support
+Give a ⭐️ if you like this project!
+
+
+
 
 
